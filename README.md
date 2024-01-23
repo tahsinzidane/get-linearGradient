@@ -4,6 +4,12 @@
 
 The Background Generator is a simple web application that allows users to generate and customize linear gradient backgrounds. Users can choose up to three colors using color pickers, randomize the colors, and copy the generated CSS code to use in their projects.
 
+- This project was created by Maruf Ovi and generously gifted to Tahsin Zidane.
+
+## Contributors
+- [Maruf OVi](https://github.com/iamovi)
+- [Tahsin Zidane](https://github.com/tahsinzidane)
+
 ## Features
 
 - **Color Selection:** Users can choose three colors using color pickers to define the gradient background.
@@ -43,10 +49,6 @@ The project uses the 'Raleway' font, sets a specific color for the text, and cen
 - **copyToClipboard():** Copies the generated CSS code to the clipboard.
 
 - **getRandomColor():** Generates a random hexadecimal color code.
-
-## How to Contribute
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 ## License
 

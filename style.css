@@ -46,3 +46,16 @@ button {
 button:hover {
     background-color: #45a049; /* Darker Green */
 }
+
+.main {
+    display: none !important;
+}
+
+@media only screen and (max-width: 720px) {
+    h1, h2, h3, input , div {
+        display: none !important;
+    }
+    .main {
+        display: block !important;
+    }
+  }
