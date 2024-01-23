@@ -44,10 +44,6 @@ The project uses the 'Raleway' font, sets a specific color for the text, and cen
 
 - **getRandomColor():** Generates a random hexadecimal color code.
 
-## How to Contribute
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
